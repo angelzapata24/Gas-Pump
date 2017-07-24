@@ -1,0 +1,4 @@
+type, amount_in_tank, price
+Regular, 5000.0, 1.88
+Midgrade, 5000.0, 2.36
+Premium, 5000.0, 2.89
