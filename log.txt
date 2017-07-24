@@ -1,0 +1,16 @@
+Regular, 3, $5.64
+Midgrade, 4, $9.04
+Regular, 14, $26.32
+Premium, 90, $260.1
+Regular, 2, $3.76
+Midgrade, 1, $2.26
+Midgrade, 1, $2.26
+Premium, 2, $5.78
+Regular, 12, $22.56
+Midgrade, 12, $27.119999999999997
+Premium, 1, $2.89
+Midgrade, 1, $2.26
+Premium, 12, $34.68
+Midgrade, 12, $27.119999999999997
+Regular, 2, $3.76
+Regular, 42, $78.96
